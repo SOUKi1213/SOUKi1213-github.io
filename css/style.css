@@ -360,10 +360,6 @@ li {
 }
 
 /*------- works -------*/
-.works_not_txt {
-text-align: center;
-}
-
 .works_contents {
   padding: 80px 0;
   background: rgba(55, 190, 210, 0.1);
@@ -576,6 +572,11 @@ color: #0C5AB7;
   justify-content: space-between;
   align-items: center;
 }
+@media screen and (min-width: 768px) {
+  .post_meta {
+    margin: 0 80px 0 0;
+  }
+}
 
 .post_meta-date {
   color: #aaa;
@@ -595,6 +596,12 @@ color: #0C5AB7;
   border: 1px solid var(--accent-color02);
   border-radius: 4px;
 }
+@media screen and (min-width: 768px) {
+  .post_meta-cat {
+    margin-left: 300px;
+  }
+}
+
 
 
 .post_title {
@@ -753,6 +760,9 @@ margin: 80px 40px 80px;
   border-radius: 4px;
 }
 
+.service_point_txt {
+  margin: 20px;
+}
 @media screen and (min-width: 1080px) {
   .service_point_txt {
     font-size: 18px;
@@ -951,9 +961,9 @@ margin: 0 10px 40px;
 @media screen and (min-width: 768px) {
   .contact_form_mail-txt {
     width: 60%;
-   margin: 12px auto;
-   font-size: 14px;
-   color: var(--gray-color-02);
+    margin: 12px auto;
+    font-size: 14px;
+    color: var(--gray-color-02);
   }
 }
 
@@ -1322,9 +1332,9 @@ font-size: 16px;
 }
 
 
-/* --- single.html --- */
+/* --- brog.html --- */
 .page_back_link {
-  margin: 140px 20px 28px;
+  margin: 120px 20px 28px;
   color: var(--gray-color-02);
 }
 @media screen and (min-width: 1080px) {
