@@ -1339,7 +1339,7 @@ font-size: 16px;
 }
 @media screen and (min-width: 1080px) {
   .page_back_link {
-    margin: 120px 200px 40px;
+    margin: 180px 450px 60px;
   }
 }
 
@@ -1351,7 +1351,7 @@ font-size: 16px;
 }
 @media screen and (min-width: 1080px) {
   .brog_post_meta {
-    margin: 0 200px 20px;
+    margin: 0 500px 20px;
   }
 }
 
@@ -1370,7 +1370,7 @@ font-size: 16px;
 @media screen and (min-width: 1080px) {
   .single_brog-title {
     font-size: 28px;
-    margin: 0 200px;
+    margin: 0 500px;
   }
 }
 
@@ -1379,14 +1379,14 @@ font-size: 16px;
 }
 @media screen and (min-width: 1080px) {
   .single_brog-txt {
-    margin: 80px 200px 40px;
+    margin: 80px 500px 40px;
   }
 }
 
 .brog_img {
   width: 323px;
   height: 212px;
-  margin: 0 auto 180px;
+  margin: 0 auto 300px;
 }
 @media screen and (min-width: 1080px) {
   .brog_img {
