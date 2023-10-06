@@ -457,6 +457,7 @@ color: #0C5AB7;
 
 @media screen and (min-width: 1080px) {
   .skill__container {
+    max-width: 1160px;
     display: flex;
     width: 80%;
     flex-wrap: wrap;
