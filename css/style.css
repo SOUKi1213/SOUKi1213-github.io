@@ -360,6 +360,10 @@ li {
 }
 
 /*------- works -------*/
+.works_not_txt {
+text-align: center;
+}
+
 .works_contents {
   padding: 80px 0;
   background: rgba(55, 190, 210, 0.1);
