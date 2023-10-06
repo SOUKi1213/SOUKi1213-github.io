@@ -1320,7 +1320,7 @@ font-size: 16px;
 
 /* --- single.html --- */
 .page_back_link {
-  margin: 80px 20px 28px;
+  margin: 140px 20px 28px;
   color: var(--gray-color-02);
 }
 @media screen and (min-width: 1080px) {
